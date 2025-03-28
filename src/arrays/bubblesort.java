@@ -27,5 +27,3 @@ public class bubblesort {
 	}
 
 }
-//wwytt9ytwrtt3yt3tt
-//t08tuyt08ut030y30ty3tyyy8
